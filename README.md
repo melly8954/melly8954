@@ -1,7 +1,12 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=150&section=header&text=Melly&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=Melly&fontSize=60" />
+</div><br><br>
+
+<div align="center">
+  원인을 모르는 해결은 의미 없고, 이해 못 하는 코드는 책임질 수 없습니다. 개발자 Melly입니다.
 </div>
+<hr>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -32,8 +37,14 @@
 </div>
 
 <!-- DB & API -->
+<h4 align="center">Database & Cache</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
+</div>
+
+<h4 align="center">API</h4>
+<div align="center">
   <img src="https://img.shields.io/badge/REST%20API-0052CC?style=for-the-badge" />&nbsp
 </div>
 
@@ -62,3 +73,4 @@
     <img src="https://img.shields.io/badge/tjsdn8963@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
