@@ -1,10 +1,5 @@
-<!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=Melly&fontSize=60" />
-</div><br><br>
-
-<div align="center">
-  원인을 모르는 해결은 의미 없고, 이해 못 하는 코드는 책임질 수 없습니다. 개발자 Melly입니다.
+  <h3>원인을 모르는 해결은 의미 없고, 이해 못 하는 코드는 책임질 수 없습니다.<br>개발자 Melly입니다.</h3>
 </div>
 <hr>
 
